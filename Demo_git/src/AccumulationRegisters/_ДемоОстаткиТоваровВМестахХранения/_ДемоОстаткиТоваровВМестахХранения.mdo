@@ -69,6 +69,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="716f68be-cf13-4b4b-a147-172f261cbdae">
     <name>Количество</name>
     <synonym>
